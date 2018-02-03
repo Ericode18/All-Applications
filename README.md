@@ -9,4 +9,4 @@ PORT_NUMBER   Port number to listen on for incomming connections.
 MAX_ENTRIES   The maximum number of entries that can be stored in `creams`'s underlying data store.
 ```
 
-After you launch the server, you can download and make the cream (Cache Rules Everything Around Me) client to send requests to the server.
+After you launch the server, you can [**download**](https://github.com/ebaisch/CREAM) and make the cream (Cache Rules Everything Around Me) client to send requests to the server.
