@@ -1,6 +1,9 @@
 # HashMap
 
 This application is a multithreaded network hashmap.
+
+## Running the Server
+First compile the server with make clean all. To run the server, execute the command below.
 ```
 ./cream [-h] NUM_WORKERS PORT_NUMBER MAX_ENTRIES
 -h            Displayed this help menu and returns EXIT_SUCCESS.
